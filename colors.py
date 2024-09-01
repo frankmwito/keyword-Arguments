@@ -1,0 +1,1 @@
+# take colors as keyword arguments, components of a color and returns the color as a tuple
